@@ -1,0 +1,65 @@
+/********** Base styles **********/
+body{
+    font-size: 16px;
+    color: #fff;
+    background-color: #61122f;
+    font-family: 'Oxygen', sans-serif;
+}
+/********** Navegation Var **********/
+#header-nav {
+    background-color: #f6b319;
+    border-radius: 0;
+    border: 0;
+}
+
+
+.navbar-brand h1 {
+    font-family: 'Lora', serif;
+    color: #557c3e;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #222;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: .75;
+    float: left;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+}
+
+#nav-list a{
+    text-align: center;
+    text-shadow: black;
+}
+
+/********** Content **********/
+.titulo {
+    font-size: 2em;
+    font-style: italic;
+}
+
+.plato{
+    border: 3px black solid;
+    padding: 10px;
+    background-color: #f6b319;
+    color: black;
+}
+
+.plato p{
+    font-style: italic;
+    text-align: justify;
+    
+}
+
+.parent-space{
+    padding:2em;  
+    border-color: white;
+  }
+
+
+
+  
+  
+  
